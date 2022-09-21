@@ -1,0 +1,1 @@
+(self.webpackChunkyoutube_example=self.webpackChunkyoutube_example||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"Doctest/blog/welcome"},{"title":"Hello","permalink":"Doctest/blog/hello-world"},{"title":"Hola","permalink":"Doctest/blog/hola"}]}')}}]);

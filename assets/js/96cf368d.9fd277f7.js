@@ -1,0 +1,1 @@
+(self.webpackChunkyoutube_example=self.webpackChunkyoutube_example||[]).push([[502],{7817:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"Doctest/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"Doctest/blog/tags/facebook"}')}}]);
